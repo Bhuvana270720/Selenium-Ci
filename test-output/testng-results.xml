@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-09T21:18:53 IST" name="Default suite" finished-at="2025-08-09T21:18:56 IST" duration-ms="2182">
+    <groups>
+    </groups>
+    <test started-at="2025-08-09T21:18:53 IST" name="Default test" finished-at="2025-08-09T21:18:56 IST" duration-ms="2182">
+      <class name="Com.example.Google.GoogleTest">
+        <test-method signature="openGoogle()[pri:0, instance:Com.example.Google.GoogleTest@397fbdb]" started-at="2025-08-09T21:18:53 IST" name="openGoogle" finished-at="2025-08-09T21:18:56 IST" duration-ms="2152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+      </class> <!-- Com.example.Google.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
