@@ -34,6 +34,9 @@
           <suiteXmlFiles>
             <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
           </suiteXmlFiles>
+           <includes>
+                 <include>src/test/java/Com/example/Google/GoogleTest.java</include>
+           </includes>
         </configuration>
       </plugin>
     </plugins>
